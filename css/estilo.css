@@ -1,0 +1,37 @@
+.logo {
+    width: 200px;
+    margin-left: 250px; /*esto no esta bien, no se como centrar el logo en el centro*/
+}
+h1 {
+    color: #BB5397;
+    font-family: "Lucida Grande ", sans-serif;
+    font-weight: 50;
+    letter-spacing: 12px;
+    text-align: center;
+}
+h2 {
+    font-family: 'Lucida Sans Regular', sans-serif;
+    color: #BB5397;
+    font-weight: 10px;
+    font-size: 4mm;
+    letter-spacing: 7px;
+
+}
+.derecha {
+    width: 350px;
+    float: right;
+    border-left:5px solid white
+}
+.izquierda {
+    width: 350px;
+    float: left;
+    border-right: 10px solid white;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4672B5;
+    font-size: small;
+}
+img {
+    border: 2px solid white;
+}
